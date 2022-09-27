@@ -12,3 +12,10 @@ A RP2040 based hardware debug tool with UART, Touchscreen and LiPo Boost Circuit
 * LiPo Boost Circuit (for 5V USB Host Power + MCU)
 * 8 LEDs for byte display and 1 LED for UART RX
 * 4 Buttons (Baud up, Baud down, 2x User Buttons)
+
+# Usecases
+* UART Serial Terminal (VT100)
+* MIDI monitor (with clock jitter measurement)
+* Simple I/O monitor / logic analyser
+* Stand-alone I2C scanner and tester
+* SPI sniffer
