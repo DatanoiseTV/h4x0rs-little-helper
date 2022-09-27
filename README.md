@@ -6,6 +6,8 @@ A RP2040 based hardware debug tool with UART, Touchscreen and LiPo Boost Circuit
 # Specifications
 * RP2040 Dual-Core Cortex M0+ MCU
 * 2MB Flash
+* USB Type-C for programming, host and device mode
+* USB Type-A for usb host (keyboard, mass storage, ..)
 * ILI9341 Display with XPT2046 Display
 * 8-bit I/O Port
 * UART Header
