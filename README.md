@@ -22,3 +22,10 @@ A RP2040 based hardware debug tool with UART, Touchscreen and LiPo Boost Circuit
 * Simple I/O monitor / logic analyser
 * Stand-alone I2C scanner and tester
 * SPI sniffer
+
+# Behind the scenes
+* TFT_eSPI as display driver
+* LVGL for GUI
+* PIO for 8-bit I/O
+* FATFS for flash filesystem
+* TinyUSB for USB Host and Device
