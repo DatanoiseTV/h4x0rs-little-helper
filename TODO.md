@@ -15,3 +15,5 @@
 * I2C scanner
 * SWD pinout scanner
 * JTAG pinout scanner
+* Servo tester
+* PPM / PWM RC signal tester
