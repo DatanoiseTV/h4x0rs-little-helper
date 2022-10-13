@@ -10,3 +10,8 @@
 * Add Logic Analyzer option
 * Add I2C Analyzer option
 * Add SPI Analyzer option
+
+# Ideas
+* I2C scanner
+* SWD pinout scanner
+* JTAG pinout scanner
